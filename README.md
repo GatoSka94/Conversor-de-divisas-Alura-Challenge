@@ -44,6 +44,12 @@ Es muy sencillo, solo debes seguir los siguientes pasos:
 
 ![7](https://github.com/GatoSka94/Conversor-de-divisas-Alura-Challenge/assets/157909144/3d9965ae-9c7a-4522-a966-533dac897490)  
 
-8. Extra para que no se pierda tu conversion se crea un archivo "**JSON**" de tu conversion.  
+8.  Extra para que no se pierda tu conversion se crea un archivo "**JSON**" de tu conversion.  
 
 ![8](https://github.com/GatoSka94/Conversor-de-divisas-Alura-Challenge/assets/157909144/f037fc47-295b-48cb-b353-b654f6b2e6de)
+  
+  
+  
+  
+  
+Creado por @GatoSka94
